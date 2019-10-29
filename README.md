@@ -9,4 +9,5 @@ For example, a mobile phone may have attributes such as camera, performance, loo
 Now to extract valuable info, the data is plotted with respect to time using 'Highcharts.com' to represent the changing  trends.
 It also calculates the overall sentiment and represents it using pie charts.
 
-Check it out on https://sentikart.herokuapp.com.
+Check it out on link below:
+https://sentikart.herokuapp.com.
