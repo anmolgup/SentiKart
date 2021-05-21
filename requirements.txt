@@ -1,5 +1,5 @@
 Flask==0.10.1
 gunicorn==19.6.0
-Jinja2==2.7.2
+Jinja2==2.11.3
 flask-wtf
 flask-login
